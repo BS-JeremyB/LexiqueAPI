@@ -1,0 +1,6 @@
+@Lexique_HostAddress = http://localhost:5062
+
+GET {{Lexique_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
